@@ -12,8 +12,8 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "10"
 x-alexaRank: "0"
 tags: Children
-created: "2018-08-25"
-modified: "2018-08-25"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/children/master/_listings/microsoft-graph/apis.md
 specificationVersion: "0.14"
 apis:
@@ -87,6 +87,156 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/children/master/_listings/microsoft-graph/drivesdriveiditemsitemidchildren-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/children/master/_listings/microsoft-graph/drivesdriveiditemsitemidchildren-get-openapi.md
+- name: Microsoft Graph API - List Child Folders
+  x-api-slug: mecontactfoldersidchildfolders-get
+  description: List childFolders Get a collection of child folders under the specified
+    contact folder.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/microsoft-graph.png
+  humanURL: https://developer.microsoft.com/en-us/graph/
+  baseURL: https://graph.microsoft.com//
+  tags: Microsoft, Files, Notes, Tasks, Stack Network, API Provider, Contacts, Emails,
+    Profiles, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/children/master/_listings/microsoft-graph/mecontactfoldersidchildfolders-get-openapi.md
+- name: Microsoft Graph API - List Child Folders
+  x-api-slug: usersid--userprincipalnamecontactfoldersidchildfolders-get
+  description: List childFolders Get a collection of child folders under the specified
+    contact folder.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/microsoft-graph.png
+  humanURL: https://developer.microsoft.com/en-us/graph/
+  baseURL: https://graph.microsoft.com//
+  tags: Microsoft, Files, Notes, Tasks, Stack Network, API Provider, Contacts, Emails,
+    Profiles, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/children/master/_listings/microsoft-graph/usersid--userprincipalnamecontactfoldersidchildfolders-get-openapi.md
+- name: Microsoft Graph API - List Child Folders
+  x-api-slug: memailfoldersidchildfolders-get
+  description: List childFolders Get the folder collection under the specified folder.
+    You can use the .../me/MailFolders shortcut to get the top-level folder collection
+    and navigate to another folder.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/microsoft-graph.png
+  humanURL: https://developer.microsoft.com/en-us/graph/
+  baseURL: https://graph.microsoft.com//
+  tags: Microsoft, Files, Notes, Tasks, Stack Network, API Provider, Contacts, Emails,
+    Profiles, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/children/master/_listings/microsoft-graph/memailfoldersidchildfolders-get-openapi.md
+- name: Microsoft Graph API - List Child Folders
+  x-api-slug: usersid--userprincipalnamemailfoldersidchildfolders-get
+  description: List childFolders Get the folder collection under the specified folder.
+    You can use the .../me/MailFolders shortcut to get the top-level folder collection
+    and navigate to another folder.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/microsoft-graph.png
+  humanURL: https://developer.microsoft.com/en-us/graph/
+  baseURL: https://graph.microsoft.com//
+  tags: Microsoft, Files, Notes, Tasks, Stack Network, API Provider, Contacts, Emails,
+    Profiles, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/children/master/_listings/microsoft-graph/usersid--userprincipalnamemailfoldersidchildfolders-get-openapi.md
+- name: Microsoft Graph API - List Child Folders
+  x-api-slug: mecontactfoldersidchildfolders-get
+  description: List childFolders Get a collection of child folders under the specified
+    contact folder.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/microsoft-graph.png
+  humanURL: https://developer.microsoft.com/en-us/graph/
+  baseURL: https://graph.microsoft.com//
+  tags: Microsoft, Files, Notes, Tasks, Stack Network, API Provider, Contacts, Emails,
+    Profiles, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/children/master/_listings/microsoft-graph/mecontactfoldersidchildfolders-get-openapi.md
+- name: Microsoft Graph API - List Child Folders
+  x-api-slug: usersid--userprincipalnamecontactfoldersidchildfolders-get
+  description: List childFolders Get a collection of child folders under the specified
+    contact folder.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/microsoft-graph.png
+  humanURL: https://developer.microsoft.com/en-us/graph/
+  baseURL: https://graph.microsoft.com//
+  tags: Microsoft, Files, Notes, Tasks, Stack Network, API Provider, Contacts, Emails,
+    Profiles, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/children/master/_listings/microsoft-graph/usersid--userprincipalnamecontactfoldersidchildfolders-get-openapi.md
+- name: Microsoft Graph API - List Child Folders
+  x-api-slug: memailfoldersidchildfolders-get
+  description: List childFolders Get the folder collection under the specified folder.
+    You can use the .../me/MailFolders shortcut to get the top-level folder collection
+    and navigate to another folder.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/microsoft-graph.png
+  humanURL: https://developer.microsoft.com/en-us/graph/
+  baseURL: https://graph.microsoft.com//
+  tags: Microsoft, Files, Notes, Tasks, Stack Network, API Provider, Contacts, Emails,
+    Profiles, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/children/master/_listings/microsoft-graph/memailfoldersidchildfolders-get-openapi.md
+- name: Microsoft Graph API - List Child Folders
+  x-api-slug: usersid--userprincipalnamemailfoldersidchildfolders-get
+  description: List childFolders Get the folder collection under the specified folder.
+    You can use the .../me/MailFolders shortcut to get the top-level folder collection
+    and navigate to another folder.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/microsoft-graph.png
+  humanURL: https://developer.microsoft.com/en-us/graph/
+  baseURL: https://graph.microsoft.com//
+  tags: Microsoft, Files, Notes, Tasks, Stack Network, API Provider, Contacts, Emails,
+    Profiles, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/children/master/_listings/microsoft-graph/usersid--userprincipalnamemailfoldersidchildfolders-get-openapi.md
+- name: Microsoft Graph API - List Child Folders
+  x-api-slug: usersid--userprincipalnamemailfoldersidchildfolders-get
+  description: List childFolders Get the folder collection under the specified folder.
+    You can use the .../me/MailFolders shortcut to get the top-level folder collection
+    and navigate to another folder.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/microsoft-graph.png
+  humanURL: https://developer.microsoft.com/en-us/graph/
+  baseURL: https://graph.microsoft.com//
+  tags: Microsoft, Files, Notes, Tasks, Stack Network, API Provider, Contacts, Emails,
+    Profiles, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/children/master/_listings/microsoft-graph/usersid--userprincipalnamemailfoldersidchildfolders-get-openapi.md
+- name: Microsoft Graph API - List Child Folders
+  x-api-slug: memailfoldersidchildfolders-get
+  description: List childFolders Get the folder collection under the specified folder.
+    You can use the .../me/MailFolders shortcut to get the top-level folder collection
+    and navigate to another folder.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/microsoft-graph.png
+  humanURL: https://developer.microsoft.com/en-us/graph/
+  baseURL: https://graph.microsoft.com//
+  tags: Microsoft, Files, Notes, Tasks, Stack Network, API Provider, Contacts, Emails,
+    Profiles, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/children/master/_listings/microsoft-graph/memailfoldersidchildfolders-get-openapi.md
+- name: Microsoft Graph API - List Child Folders
+  x-api-slug: usersid--userprincipalnamecontactfoldersidchildfolders-get
+  description: List childFolders Get a collection of child folders under the specified
+    contact folder.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/microsoft-graph.png
+  humanURL: https://developer.microsoft.com/en-us/graph/
+  baseURL: https://graph.microsoft.com//
+  tags: Microsoft, Files, Notes, Tasks, Stack Network, API Provider, Contacts, Emails,
+    Profiles, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/children/master/_listings/microsoft-graph/usersid--userprincipalnamecontactfoldersidchildfolders-get-openapi.md
+- name: Microsoft Graph API - List Child Folders
+  x-api-slug: mecontactfoldersidchildfolders-get
+  description: List childFolders Get a collection of child folders under the specified
+    contact folder.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/microsoft-graph.png
+  humanURL: https://developer.microsoft.com/en-us/graph/
+  baseURL: https://graph.microsoft.com//
+  tags: Microsoft, Files, Notes, Tasks, Stack Network, API Provider, Contacts, Emails,
+    Profiles, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/children/master/_listings/microsoft-graph/mecontactfoldersidchildfolders-get-openapi.md
 x-common:
 - type: x-api-gallery
   url: http://messente.api.gallery.streamdata.io

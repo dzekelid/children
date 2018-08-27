@@ -12,6 +12,8 @@ produces:
 - application/json
 consumes:
 - application/json
+host: www.arin.net
+basePath: /regrws/core/v1
 paths:
   /net/children:
     get:
